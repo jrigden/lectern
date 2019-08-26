@@ -11,7 +11,7 @@
  
  # Lecturn
 
-***WARNING**: This is a project in in ALPHA. You should expect to encounter many broken things and backwards comparability should not be expected.*
+***WARNING**: This is a project in in **ALPHA**. You should expect to encounter many broken things and backwards comparability should not be expected.*
 
 Lectern is a web based open source presentation solution. No server is required. 
 
