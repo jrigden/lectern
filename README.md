@@ -107,21 +107,16 @@ Inside a slide div we can have content in rows. Just make another div with the c
     	<div>
     <div>
 
+## History
+* August 27, 2019 - Intitial testing release v0.1.0 
 
 
 
+## Authors
+
+[Jason Rigden](https://twitter.com/mr_rigden)
 
 
-
-
-## Contributing
-
-1. Fork it (<https://github.com/mr-rigden/lectern/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-6. 
 ## License
 **MIT License**
 
