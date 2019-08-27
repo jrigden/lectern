@@ -17,7 +17,8 @@
 Lectern is a web based open source presentation solution. No server is required. 
 
 ## Demo
-* Lectern feature demo
+* [Lectern Demo](https://lab.rigden.dev/demo/lectern/demo.html)
+* [Mr. Rigden's Channel Slides Demo](https://slides.rigden.dev/template/)
 
 
 ## Installation
