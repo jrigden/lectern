@@ -149,13 +149,12 @@ ol {
 
 
 code {
-    margin-top: -1rem;
-    font-family: 'Inconsolata', monospace;
-
-    line-height: .70rem;
+    font-family: 'Roboto Mono', monospace;
 
 
-    font-size: 70%;
+
+
+    font-size: 60%;
 }
 
 .hljs {
