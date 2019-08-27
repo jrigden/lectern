@@ -1,9 +1,3 @@
-
-
-![GitHub All Releases](https://img.shields.io/github/downloads/mr-rigden/lectern/total)
-
-
-
 <pre>
   _        ______    _____   _______   ______   _____    _   _ 
  | |      |  ____|  / ____| |__   __| |  ____| |  __ \  | \ | |
