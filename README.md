@@ -18,7 +18,7 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mr-rigden/lectern?style=flat-square)  ![GitHub](https://img.shields.io/github/license/mr-rigden/lectern?style=flat-square) ![GitHub All Releases](https://img.shields.io/github/downloads/mr-rigden/lectern/total?style=flat-square)  
 
-***WARNING**: This is a project in in **ALPHA**. You should expect to encounter many broken things and backwards comparability should not be expected.*
+***WARNING**: This is a project in in **ALPHA**. You should expect to encounter many broken things and backwards comparability should not be expected. Please break it!*
 
 Lectern is a web based open source presentation solution. No server is required. 
 
@@ -37,6 +37,30 @@ Lectern is just HTML, CSS, and javascript. There is no need for a server. Just c
 * Navigate to the previous slide with the left arrow key or by clicking on the left hand quarter of the screen.
 * Reveal the next hidden item on the current slide with the down arrow or clicking on the lower quarter of the screen. 
 * Hide the last revealed item on the current slide with the down up or clicking on the upper quarter of the screen. 
+
+
+## Customization
+The style sheet is very simple. Any changes should be pretty straight forward. Just override the default css. Here are some examples:
+
+Custom background image:
+
+    #container {
+	    background-image: url("https://yourserver.com/cat,jpg");
+    }
+
+Custom base font:
+
+    html {
+    	font-family: canada-type-gibson, sans-serif;
+    }
+
+Customize the code font:
+
+    code {
+    	font-family: courier-prime, monospace;
+    }
+
+
 
 ## Editing
 
