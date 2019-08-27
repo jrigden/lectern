@@ -9,8 +9,9 @@
 
 # Lecturn
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/mr-rigden/lectern?style=flat-square) 
- ![GitHub](https://img.shields.io/github/license/mr-rigden/lectern?style=flat-square) ![GitHub All Releases](https://img.shields.io/github/downloads/mr-rigden/lectern/total?style=flat-square)  
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/mr-rigden/lectern?include_prereleases&style=flat-square) ![GitHub All Releases](https://img.shields.io/github/downloads/mr-rigden/lectern/total?style=flat-square) ![GitHub](https://img.shields.io/github/license/mr-rigden/lectern?style=flat-square)
+
+
 
 ***WARNING**: This is a project in in **ALPHA**. You should expect to encounter many broken things and backwards comparability should not be expected. Please break it!*
 
