@@ -67,7 +67,18 @@ You can add new slide by creating a div with a class of slide.
   Then just add whatever html you want. Check for the demo for some ideas!
 
 ### Hidden Item
-  
+You can hide items by adding the `hidden` class to the element. 
+
+    <div class="slide ">
+    	<h2>Hidden</h2>
+    	<ul>
+    		<li>Press the down arrow</li>
+    		<li class="hidden">Do it again!</li>
+    		<li class="hidden">Now hit the up arrow!</li>
+    	</ul>
+    </div>
+
+Pressing the down arrow will reveal the next hidden item on the current slide. Pressing the up arrow with hide the last revealed item on the current slide.  
 
 ### Image Sizes
 Image can be sized with rems. 
